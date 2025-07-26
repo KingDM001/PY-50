@@ -1,0 +1,12 @@
+h1, h2, h3 {
+    text-align: center;
+}
+
+#main {
+max-width: 700px;
+margin: auto;
+}
+
+table {
+    width: 100%;
+}
